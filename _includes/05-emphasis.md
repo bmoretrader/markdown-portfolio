@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am learning *Python* to code my trading systems.
+In the past, I have used _TradeStation_, __Excel__, and *__Guesswork__*.
